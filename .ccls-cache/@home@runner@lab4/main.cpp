@@ -24,7 +24,7 @@ int main()
   large_brownies = small_brownies/4;
  
     // Write statements below which will output the requested information.
-  cout << "A " << length << "X" << width << " inch pan can hold " << small_brownies << " small brownies or " << large_brownies << " large brownies."
+  cout << "A " << length << "X" << width << " inch pan can hold " << small_brownies << " small brownies or " << large_brownies << " large brownies.";
  
   return 0;
 }
